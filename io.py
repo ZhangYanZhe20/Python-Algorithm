@@ -1,4 +1,4 @@
-#输入A、B，输出A+B。
+#输入A、B，输出A+B
 A,B = map(int,input().split(","))
 print(A+B)
 n = int(input())
