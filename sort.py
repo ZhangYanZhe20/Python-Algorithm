@@ -1,4 +1,4 @@
-import time
+import time，
 
 list = input('列表:').split(",")
 list =[int(list[i]) for i in range(len(list))]
